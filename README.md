@@ -82,10 +82,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Tentang PPDB
 
-Jalankan :
+Jalankan :<br/>
 npm install
-php artisan migrate
-npm run watch
-php artisan serve
-
+<br/>php artisan migrate
+<br/>npm run watch
+<br/>php artisan serve
+<br/>
 Happy hacking :)
