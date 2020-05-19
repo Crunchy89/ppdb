@@ -9,6 +9,15 @@ require("../../node_modules/bootstrap/dist/css/bootstrap.min.css");
 require("../../node_modules/jquery/dist/jquery");
 require("../../node_modules/bootstrap/dist/js/bootstrap.bundle");
 require("../../node_modules/popper.js");
+require("../assets/plugins/fontawesome-free/css/all.min.css");
+require("../assets/plugins/jquery/jquery.min.js");
+require("../assets/plugins/bootstrap/js/bootstrap.bundle.min.js");
+// {
+//     localStorage.getItem("user")
+//         ? (,
+//           require("../assets/dist/js/adminlte.js"))
+//         : (require("../assets/css/style.css"), require("../assets/js/main"));
+// }
 
 /**
  * Next, we will create a fresh React component instance and attach it to
